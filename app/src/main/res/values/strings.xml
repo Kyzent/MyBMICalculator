@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="height">Height (m)</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="reset_data">RESET DATA</string>
+    <string name="cal_date">Last Calculated Date: </string>
+    <string name="cal_bmi">Last Calculated BMI: </string>
+    <string name="overweight">You are overweight</string>
+
+</resources>
